@@ -2,7 +2,7 @@
 
 ## Encourage behavior.
 
-It’s not enough to educate your audience; the focus of documentation
+It’s not enough to educate your audience; documentation
 should center on what you want the reader to do.
 
 ## Frontload the payload.
@@ -10,7 +10,7 @@ should center on what you want the reader to do.
 Attention is expensive. Give the answer the reader wants right away.
 Continue writing only if clarification is required. Think at the level
 of information. What is the actual content of the message, and is each
-sentence necessary and in service of that message?
+sentence necessary to impart that message?
 
 ## Explanation should be strategic.
 
@@ -25,7 +25,7 @@ answers are prominent, clear, and complete.
 ## Exploit the brain.
 
 Consider neural traction: how do you get the information to stick? For
-example, people identify with material terms more so than with abstract
+example, people identify with material terms more than with abstract
 terms. Visual words like “red” and “house” fire more neurons than
 abstract words like “interface” or “structure” because a large
 percentage of the brain is devoted to visual processing. When
@@ -54,8 +54,7 @@ Consider whether documentation is the correct (or only) place for
 certain types of information. Critical changes to a process or a
 codebase, for example, should also be broadcast to stakeholders.
 
-## These are impossible standards; prioritize the big picture.
+## Prioritize the narrative.
 
-These principles are not rules; they are guides to documentation. The
-narrative should come before the details. Readers learn faster once they
+The big picture must come before the details. Readers learn faster once they
 have a grasp on the story.
