@@ -1,4 +1,4 @@
-# The Principles of Technical Documentation
+# The Principles of Documentation
 
 ## Encourage behavior.
 
