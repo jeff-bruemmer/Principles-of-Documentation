@@ -1,5 +1,7 @@
 # The Principles of Documentation
 
+All documentation should be written in clear, navigable prose. These principles concern the strategies, tactics, and contexts to consider when defining and organizing technical content.
+
 ## Encourage behavior.
 
 It’s not enough to educate your audience; documentation should center on helping the reader accomplish their goal.
@@ -10,7 +12,7 @@ Attention is expensive. Give the answer the reader wants right away.
 
 ## Prioritize the narrative.
 
-The big picture must come before the details. Readers learn faster once they have a grasp on the story.
+The big picture must come before the details. Readers learn faster once they have a grasp on the story and its context.
 
 ## Documentation is part of a larger communication apparatus.
 
@@ -19,7 +21,7 @@ codebase, for example, should also be broadcast to stakeholders.
 
 ## Think at the level of information.
 
-What is the actual content of the message, and is each sentence necessary to impart that message?
+What is the actual content of the message, and is each sentence necessary to impart that information?
 
 ## Explanation should be strategic.
 
@@ -31,7 +33,7 @@ FAQs can signal poor documentation. Anticipate questions and make sure their ans
 
 ## Work with the brain
 
-Consider neural traction: how do you get the information to stick? For example, people identify with material terms more than with abstract terms. Visual words like “red” and “house” fire more neurons than abstract words like “interface” or “structure” because a large percentage of the brain is devoted to visual processing. When constructing examples, include terminology that engages the sensorium (the sensory apparatus or faculties considered as a whole). Familiar references can have the same effect: they can give the reader the purchase necessary to focus on novelty (i.e. the subject of the documentation). Similarly, limiting the use of pronouns frees up readers' working memory.
+Consider neural traction: how do you get the information to stick? For example, people identify with material terms more than with abstract terms. Visual words like “red” and “house” fire more neurons than abstract words like “interface” or “structure” because a large percentage of the brain is devoted to visual processing. When constructing examples, include terminology that engages the sensorium (the sensory apparatus or faculties considered as a whole). Familiar references can have the same effect: they can give the reader the purchase necessary to focus on novelty (i.e. the subject of the documentation). Similarly, limiting the use of pronouns frees up the reader’s working memory.
 
 ## Target specific audiences.
 
@@ -40,4 +42,3 @@ Are you trying to persuade someone to select your API over others, or are you as
 ## Inform future design.
 
 When done well, the process of documentation can illuminate problem areas, and generate ideas for improvement. Put channels in place to make use of that feedback.
-
