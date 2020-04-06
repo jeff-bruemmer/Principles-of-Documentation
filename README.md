@@ -31,7 +31,7 @@ Not everything should be explained. Explanation should be used to direct readers
 
 FAQs can signal poor documentation. Anticipate questions and make sure their answers are prominent, clear, and complete.
 
-## Work with the brain
+## Work with the brain.
 
 Consider neural traction: how do you get the information to stick? For example, people identify with material terms more than with abstract terms. Visual words like “red” and “house” fire more neurons than abstract words like “interface” or “structure” because a large percentage of the brain is devoted to visual processing. When constructing examples, include terminology that engages the sensorium (the sensory apparatus or faculties considered as a whole). Familiar references can have the same effect: they can give the reader the purchase necessary to focus on novelty (i.e. the subject of the documentation). Similarly, limiting the use of pronouns frees up the reader’s working memory.
 
