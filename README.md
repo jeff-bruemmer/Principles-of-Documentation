@@ -4,7 +4,7 @@ All documentation should be written in clear, navigable prose. These principles 
 
 ## Encourage behavior.
 
-It’s not enough to educate your audience; documentation should center on helping the reader accomplish their goal.
+It’s not enough to educate your audience; documentation should center on helping readers accomplish their goals.
 
 ## Frontload the payload.
 
